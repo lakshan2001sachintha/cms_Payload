@@ -1,6 +1,7 @@
 allowBuilds:
-  '@vercel/git-hooks': set this to true or false
+  '@vercel/git-hooks': false
   esbuild: true
   sharp: true
   unrs-resolver: true
   workerd: true
+
